@@ -16,12 +16,18 @@ A lack of robust pricing strategies hinders effective decision-making for both s
 Implementing an accurate and efficient housing pricing model can streamline the buying and selling process, enhancing market competitiveness and overall transaction efficiency.
 ## COMPONENTS
 Jupyter notebook
+
 Presentation
+
 Data
+
 ## GROUP MEMBERS
-Winny mauti https://github.com/nyaberimauti
-Victor Gachie https://github.com/amature98
+Winny mauti  https://github.com/nyaberimauti
+
+Victor Gachie https://github.com/amature98 
+
 Robinson Mumo https://github.com/robymumo
+
 Paul Mbugua https://github.com/Paulwaweru
 
 
